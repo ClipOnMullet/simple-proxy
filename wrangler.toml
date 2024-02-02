@@ -2,3 +2,5 @@ name = "simple-proxy"
 main = "./.output/server/index.mjs"
 workers_dev = true
 compatibility_date = "2022-09-10"
+VITE_TMDB_READ_API_KEY = "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI4ZmFiNGE2MGVkN2FkMWIxODlmODBkMjY3ZGU5YTU2OCIsInN1YiI6IjY1YmNiYWNhNDU5YWQ2MDE3YTZlMDE4MCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.3B8M2o-rLNwPn2BUaHFx8s0NPRS6kllEL8JQlMVoOyE"
+VITE_CORS_PROXY_URL = "https://simple-proxy.alexandra-paige-allen.workers.dev/"
